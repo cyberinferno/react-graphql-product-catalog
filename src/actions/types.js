@@ -1,0 +1,15 @@
+export const START_LIST_FETCH = 'START_LIST_FETCH';
+export const FINISH_LIST_FETCH = 'FINISH_LIST_FETCH';
+export const TITLE_CHANGE = 'TITLE_CHANGE';
+export const TITLE_ERROR = 'TITLE_ERROR';
+export const DESCRIPTION_CHANGE = 'DESCRIPTION_CHANGE';
+export const DESCRIPTION_ERROR = 'DESCRIPTION_ERROR';
+export const PRICE_CHANGE = 'PRICE_CHANGE';
+export const PRICE_ERROR = 'PRICE_ERROR';
+export const QUANTITY_CHANGE = 'QUANTITY_CHANGE';
+export const QUANTITY_ERROR = 'QUANTITY_ERROR';
+export const URL_CHANGE = 'URL_CHANGE';
+export const URL_ERROR = 'URL_ERROR';
+export const SAVE_ERROR = 'SAVE_ERROR';
+export const ID_CHANGE = 'ID_CHANGE';
+export const RESET_FORM = 'RESET_FORM';
